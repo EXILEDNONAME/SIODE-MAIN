@@ -5,6 +5,8 @@
   </a>
 </li>
 
+@include('includes.sidebar-item')
+
 <li class="menu-section">
   <h4 class="menu-text"> Extensions </h4>
   <i class="menu-icon ki ki-bold-more-hor icon-md"></i>
